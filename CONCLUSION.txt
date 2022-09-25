@@ -1,0 +1,7 @@
+320222203 
+Lo que puede aprender con esta actividad fue que conocí otros modificadores de salida como lo fue %X para que salieran 
+numero en hexadecimal, puse en practica lo enseñado en clase y volvi a revisar apuntes para que me quedara más claro como 
+hacer el programa que solicitaban, aun necesito comprender el programa que piden, ya que a la primera lectura no logro 
+entender lo que me estan pidiendo. Tambien otra cosa que me pude dar cuenta es que necesito estudiar aun más y seguir practicando 
+con diferentes ejercicios para ya no cometer errores comunes, tambien es necesario que me de cuenta de los detalles ya que esos 
+me hacen fallar en el programa. 
